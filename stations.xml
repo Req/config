@@ -1,0 +1,15 @@
+<Stations>
+  <Station>
+    <uri>https://scenestream.io/necta64.ogg</uri>
+    <name>Nectarine demoscene radio</name>
+    <insecure>true</insecure>
+  </Station>
+  <Station>
+    <uri>https://play.radiorivendell.com/radio/8000/radio.mp3</uri>
+    <name>Radio Rivendell</name>
+  </Station>
+  <Station>
+    <uri>http://death.fm/modules/Listen/MP3-hi.pls</uri>
+    <name>Death FM</name>
+  </Station>
+</Stations>
